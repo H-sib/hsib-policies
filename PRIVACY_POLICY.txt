@@ -1,0 +1,32 @@
+H-SIB AUTONOMY PRIVACY POLICY (version 1.0.0). Plain text; docs/privacy_policy.html is the same text as a web page for the Play Console link.
+
+WHO WE ARE
+H-sib Autonomy is made by H-sib (Chowdhury Hasibur Rahaman). Contact: the email shown on the Play Store page of the app.
+
+SHORT VERSION
+The app collects nothing. Everything stays on your phone. It cannot send anything anywhere because it has no internet permission.
+
+WHAT THE APP STORES, ON YOUR PHONE ONLY
+ - The names, sizes, dates and folder names of files in the folders you choose (the content of your files is not copied or stored).
+ - Your shelves (saved rules), your records (bills, deadlines, tickets) and your settings.
+ - A short crash note, if the app stops, to show you in About.
+ All of this is encrypted with a key kept inside the phone's secure storage. Removing the app removes the data.
+
+WHAT THE APP READS
+ - Only the folders you pick with the Android folder picker. Access is read only. You can remove a folder at any time in the app, or in Android settings.
+ - Text you choose to share into the app.
+ - The app never moves, renames, deletes or uploads your files.
+
+PERMISSIONS
+ - Notifications: to remind you. The lock screen shows only the word Reminder unless you choose to show details.
+ - Camera: only if you choose Scan codes to move to a new phone. Nothing from the camera is saved or sent. The permission is asked when you tap Allow camera.
+ - No internet, no contacts, no location, no microphone permission. Voice typing is done by the speech service of your phone, not by this app.
+
+BACKUPS
+ If you make a backup file, it is locked with a passphrase you choose and saved where you choose. We cannot open it and cannot recover a lost passphrase.
+
+CHILDREN
+ For ages 13 and over.
+
+CHANGES AND ERASING
+ Settings, Privacy and lock, Erase everything removes everything the app stored. Your real files are never touched. If this policy changes, the new version will be in the app and on the store page.
